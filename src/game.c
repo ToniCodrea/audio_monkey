@@ -9,10 +9,10 @@
 #include <sys/types.h>
 #include <math.h>
 #include <io.h>
-#include "SDL.h"
-#include "SDL_image.h"
-#include "SDL_timer.h"
-#include "SDL_ttf.h"
+#include <SDL.h>
+#include <SDL_image.h>
+#include <SDL_timer.h>
+#include <SDL_ttf.h>
 #include "game.h"
 #include "sound.h"
 #include "server.h"

@@ -3,10 +3,10 @@
 #include <stdbool.h>
 #include <time.h>
 #include <string.h>
-#include "SDL.h"
-#include "SDL_image.h"
-#include "SDL_ttf.h"
-#include "SDL_timer.h"
+#include <SDL.h>
+#include <SDL_image.h>
+#include <SDL_ttf.h>
+#include <SDL_timer.h>
 #include <WinSock2.h>
 #include <ws2tcpip.h>
 #include <Windows.h>

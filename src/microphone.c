@@ -3,9 +3,9 @@
 #include <stdbool.h>
 #include <math.h>
 #include <time.h>
+#include <al.h>
+#include <alc.h>
 #include "sound.h"
-#include "al.h"
-#include "alc.h"
 
 ALCdevice* inputDevice;
 int neutral_amplitude;
